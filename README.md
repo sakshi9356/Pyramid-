@@ -1,2 +1,2 @@
-# Pyramid-
+# charcount
 PHP program
